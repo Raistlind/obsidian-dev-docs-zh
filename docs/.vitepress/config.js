@@ -1,9 +1,20 @@
 export default {
   title: 'Obsidian 开发者文档',
+  base: "/obsidian-dev-docs-zh/",
   description: '',
-  // 打包目录 outDir: './dist',
+  lastUpdated: true,
+  markdown: {
+    lineNumbers: true,
+  },
   head: [
-    // 添加图标
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   ],
+  themeConfig: {
+    siteTitle: "Obsidian 开发者文档",
+    logo: "/logo.svg",
+    // search: {
+    //   provider: "local",
+    // },
+  },
+
 }
