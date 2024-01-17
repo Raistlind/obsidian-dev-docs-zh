@@ -11,7 +11,7 @@
     actions:
     - theme: brand
       text: 开始使用
-      link: /zh/
+      link: /zh/home
     - theme: alt
       text: 官网文档
       link: https://docs.obsidian.md/Home
