@@ -27,5 +27,6 @@
 
 ## 本项目主要参考资源
 https://docs.obsidian.md/Home
+
 https://github.com/luhaifeng666/obsidian-plugin-docs-zh/blob/master/README.md（新的Obsidian官方文档中去掉了使用Vue的例子，这部分仍然可以参考此项目）
 
