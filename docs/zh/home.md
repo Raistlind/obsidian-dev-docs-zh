@@ -25,7 +25,7 @@
 
 - [构建您的第一个主题](./themes/app-themes/build-a-theme.md)
 - [提交您的主题](./themes/app-themes/submit-your-theme.md)
-- [CSS变量](./reference/css-variables.md)
+- CSS变量
 
 
 # 加入开发者社区
