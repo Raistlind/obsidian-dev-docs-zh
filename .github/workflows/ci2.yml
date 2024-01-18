@@ -1,0 +1,30 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          node-version: 16
+          cache: yarn
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Build
+        run: yarn docs:build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # 指定仓库：你要发布的仓库路径名
+          repository-name: Raistlind/obsidian-dev-docs-zh
+          # 部署到 deploy-pages 分支，也就是部署后提交到那个分支
+          branch: deploy-pages
+          github_token: ${{ secrets.ObsidianDocs }}
+          publish_dir: docs/.vitepress/dist
