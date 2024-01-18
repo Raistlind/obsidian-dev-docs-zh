@@ -21,9 +21,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # 指定仓库：你要发布的仓库路径名
-          repository-name: Raistlind/obsidian-dev-docs-zh
-          # 部署到 deploy-pages 分支，也就是部署后提交到那个分支
-          branch: deploy-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vitepress/dist
