@@ -2,7 +2,7 @@ import { contentsNote } from "../sidebar/contents"
 
 export default {
   title: 'Obsidian 开发者文档',
-  base: "/",
+  base: "/obsidian-dev-docs-zh/",
   description: "根据Obsidian官方开发者文档进行翻译",
   lastUpdated: true,
   markdown: {
