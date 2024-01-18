@@ -6,7 +6,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions: read-all
+    permissions: write-all
     steps:
       - uses: actions/checkout@v2
         with:
