@@ -9,6 +9,7 @@
 # Obsidian 开发者文档
 
 本项目使用vitepress构建:
+
 [![npm](https://img.shields.io/npm/v/vitepress)](https://www.npmjs.com/package/vitepress)
 
 
