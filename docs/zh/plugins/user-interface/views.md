@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 视图
 ---
 视图决定了Obsidian 显示内容的方式。文件资源管理器、图表视图和 Markdown 视图都是视图的例子，但你也可以创建自己的自定义视图，以符合你的插件内容显示需要。

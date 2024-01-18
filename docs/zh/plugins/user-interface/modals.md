@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 模态框
 ---
 模态框显示信息并接受用户输入。要创建一个模态框，请创建一个扩展 [Modal](https://docs.obsidian.md/Reference/TypeScript+API/Modal/Modal) 的类：

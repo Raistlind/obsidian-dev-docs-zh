@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 视图插件
 ---
 视图插件是一个[编辑器扩展](./editor-extensions.md)，可让您访问编辑器视窗。

@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 嵌入字体和图像
 ---
 本节主要讲述如何在主题中包含资源，例如字体和图像。

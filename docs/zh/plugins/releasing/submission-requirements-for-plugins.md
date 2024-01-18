@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 插件的提交要求
 ---
 本页列出了扩展的[开发者政策](../../developer-policies.md)，包含插件特定要求，所有插件必须遵循才能发布。

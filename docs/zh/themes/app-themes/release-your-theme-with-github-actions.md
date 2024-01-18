@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 使用GitHub Actions发布主题
 ---
 手动发布主题可能非常耗时且容易出错。在本指南中，您将配置主题以使用 [GitHub Actions](https://github.com/features/actions) 在创建新标签时自动创建版本。

@@ -2,10 +2,13 @@
 export const contentsNote = [
     {
         text: "插件",
-        collapsed: false,
+        collapsible: true,
+        collapsed: true,
         items: [
             {
                 text: "开始",
+                collapsible: true,
+                collapsed: true,
                 items: [
                     {
                         text: "构建一个插件",
@@ -35,95 +38,196 @@ export const contentsNote = [
             },
             {
                 text: "界面",
-                link: "/note/vitePress/page2",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                    {
+                        text: "关于界面",
+                        link: "/zh/plugins/user-interface/about-user-interface",
+                    },
+                    {
+                        text: "命令",
+                        link: "/zh/plugins/user-interface/commands",
+                    },
+                    {
+                        text: "上下文菜单",
+                        link: "/zh/plugins/user-interface/context-menus",
+                    },
+                    {
+                        text: "HTML元素",
+                        link: "/zh/plugins/user-interface/html-elements",
+                    },
+                    {
+                        text: "图标",
+                        link: "/zh/plugins/user-interface/icons",
+                    },
+                    {
+                        text: "模态框",
+                        link: "/zh/plugins/user-interface/modals",
+                    },
+                    {
+                        text: "功能区",
+                        link: "/zh/plugins/user-interface/ribbon-actions",
+                    },
+                    {
+                        text: "设置",
+                        link: "/zh/plugins/user-interface/settings",
+                    },
+                    {
+                        text: "状态栏",
+                        link: "/zh/plugins/user-interface/status-bar",
+                    },
+                    {
+                        text: "视图",
+                        link: "/zh/plugins/user-interface/views",
+                    },
+                    {
+                        text: "工作区",
+                        link: "/zh/plugins/user-interface/workspace",
+                    },
+                ],
             },
             {
                 text: "编辑器",
-                link: "/note/vitePress/page3",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                    {
+                        text: "编辑器",
+                        link: "/zh/plugins/editor/editor",
+                    },
+                    {
+                        text: "Markdown后处理",
+                        link: "/zh/plugins/editor/markdown-post-processing",
+                    },
+                    {
+                        text: "编辑器扩展",
+                        link: "/zh/plugins/editor/editor-extensions",
+                    },
+                    {
+                        text: "装饰",
+                        link: "/zh/plugins/editor/decorations",
+                    },
+                    {
+                        text: "状态字段",
+                        link: "/zh/plugins/editor/state-fields",
+                    },
+                    {
+                        text: "状态管理",
+                        link: "/zh/plugins/editor/state-management",
+                    },
+                    {
+                        text: "视图插件",
+                        link: "/zh/plugins/editor/view-plugins",
+                    },
+                    {
+                        text: "视窗",
+                        link: "/zh/plugins/editor/viewport",
+                    },
+                    {
+                        text: "编辑器扩展间通信",
+                        link: "/zh/plugins/editor/communicating-with-editor-extensions",
+                    },
+                ],
             },
             {
                 text: "发布",
-                link: "/note/vitePress/page4",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                    {
+                        text: "使用GitHub Actions发布插件",
+                        link: "/zh/plugins/releasing/release-your-plugin-with-github-actions",
+                    },
+                    {
+                        text: "提交您的插件",
+                        link: "/zh/plugins/releasing/submit-your-plugin",
+                    },
+                    {
+                        text: "插件的提交要求",
+                        link: "/zh/plugins/releasing/submission-requirements-for-plugins",
+                    },
+                    {
+                        text: "插件指南",
+                        link: "/zh/plugins/releasing/plugin-guidelines",
+                    },
+                    {
+                        text: "测试插件",
+                        link: "/zh/plugins/releasing/beta-testing-plugins",
+                    },
+                ],
             },
             {
                 text: "事件",
-                link: "/note/vitePress/page5",
+                link: "/zh/plugins/events",
             },
             {
                 text: "库",
-                link: "/note/vitePress/page5",
+                link: "/zh/plugins/vault",
             },
         ],
     },
     {
         text: "主题",
-        // collapsible: false,
-        collapsed: false,
+        collapsible: true,
+        collapsed: true,
         items: [
             {
-                text: "开始",
+                text: "App主题",
+                collapsible: true,
+                collapsed: true,
                 items: [
                     {
-                        text: "构建一个插件",
-                        link: "/zh/plugins/getting-started/build-a-plugin",
+                        text: "构建主题",
+                        link: "/zh/themes/app-themes/build-a-theme",
                     },
                     {
-                        text: "1.2.首页配置",
-                        link: "/note/vitePress/page1-2",
+                        text: "嵌入字体和图像",
+                        link: "/zh/themes/app-themes/embed-fonts-and-images-in-your-theme",
+                    },
+                    {
+                        text: "使用GitHub Actions发布主题",
+                        link: "/zh/themes/app-themes/release-your-theme-with-github-actions",
+                    },
+                    {
+                        text: "提交您的主题",
+                        link: "/zh/themes/app-themes/submit-your-theme",
+                    },
+                    {
+                        text: "主题指南",
+                        link: "/zh/themes/app-themes/theme-guidelines",
                     },
                 ],
             },
             {
-                text: "2.VitePress默认主题修改和配置",
-                link: "/note/vitePress/page2",
-            },
-            {
-                text: "3.如何自定义布局和主题样式修改?",
-                link: "/note/vitePress/page3",
-            },
-            {
-                text: "4.如何自定义布局页面模板？",
-                link: "/note/vitePress/page4",
-            },
-            {
-                text: "5.第三方组件库的使用-组件库文档",
-                link: "/note/vitePress/page5",
-            },
+                text: "Publish主题",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                    {
+                        text: "关于Publish主题",
+                        link: "/zh/themes/obsidian-publish-themes/about-obsidian-publish-themes",
+                    },
+                    {
+                        text: "构建Publish主题",
+                        link: "/zh/themes/obsidian-publish-themes/build-a-publish-theme",
+                    },
+                    {
+                        text: "Publish主题最佳实践",
+                        link: "/zh/themes/obsidian-publish-themes/best-pratices-for-publish-themes",
+                    },
+                ],
+            }
         ],
     },
     {
         text: "参考",
-        // collapsible: false,
-        collapsed: false,
+        collapsible: true,
+        collapsed: true,
         items: [
             {
-                text: "开始",
-                items: [
-                    {
-                        text: "构建一个插件",
-                        link: "/zh/plugins/getting-started/build-a-plugin",
-                    },
-                    {
-                        text: "1.2.首页配置",
-                        link: "/note/vitePress/page1-2",
-                    },
-                ],
-            },
-            {
-                text: "2.VitePress默认主题修改和配置",
-                link: "/note/vitePress/page2",
-            },
-            {
-                text: "3.如何自定义布局和主题样式修改?",
-                link: "/note/vitePress/page3",
-            },
-            {
-                text: "4.如何自定义布局页面模板？",
-                link: "/note/vitePress/page4",
-            },
-            {
-                text: "5.第三方组件库的使用-组件库文档",
-                link: "/note/vitePress/page5",
+                text: "参考章节翻译说明",
+                link: "/zh/reference/reference",
             },
         ],
     }

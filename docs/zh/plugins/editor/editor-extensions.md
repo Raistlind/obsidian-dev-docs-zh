@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 编辑器扩展
 ---
 编辑器扩展可让您在Obsidian 中自定义编辑笔记的体验。本页解释了什么是编辑器扩展，以及何时使用。

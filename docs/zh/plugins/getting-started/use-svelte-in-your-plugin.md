@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 使用Svelte
 ---
 本指南介绍如何配置您的插件以使用 [Svelte](https://svelte.dev/) ，这是一种轻量级替代传统框架（如React和Vue）的方法。

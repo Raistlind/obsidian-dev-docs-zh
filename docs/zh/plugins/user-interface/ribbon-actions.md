@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 功能区
 ---
 Obsidian界面左侧的边栏是功能区。除了系统操作（如打开首选项或另一个库）外，功能区还可以提供插件定义的操作。

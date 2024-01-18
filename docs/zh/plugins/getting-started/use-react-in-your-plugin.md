@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 使用React
 ---
 在本指南中，您将配置插件以使用 React。它假设你已经有一个带有 [custom view](https://docs.obsidian.md/Plugins/User+interface/Views) 的插件，你想通过它来使用 React。

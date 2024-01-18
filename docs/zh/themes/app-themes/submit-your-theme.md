@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 提交您的主题
 ---
 如果您想与 Obsidian 社区分享您的主题，最好的方法是将其提交到[官方主题列表](https://github.com/obsidianmd/obsidian-releases/blob/master/community-css-themes.json)。我们审核并发布您的主题后，用户可以直接从 Obsidian 中安装它。它还将出现在 Obsidian 网站的[插件目录](https://obsidian.md/plugins)中。

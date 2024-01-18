@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 构建主题
 ---
 In this tutorial, you'll learn how to start developing a theme for Obsidian. Themes let you customize how Obsidian looks and feels, using CSS.  

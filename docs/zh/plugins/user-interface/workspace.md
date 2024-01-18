@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 工作区
 ---
 Obsidian 让你可以随时配置哪些内容对你可见。在不需要文件浏览器时将其隐藏，并排显示多个文档，或者在处理文档时显示文档大纲。应用程序窗口中可见内容的配置称为工作区。

@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 使用GitHub Actions发布插件
 ---
 手动发布插件可能既耗时又容易出错。在本指南中，您将配置插件，以便在创建新标签时使用 [GitHub Actions](https://github.com/features/actions)  自动创建发布。

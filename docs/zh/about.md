@@ -6,13 +6,13 @@
  * @Description: 
 -->
 
-# Obsidian 开发者文档
+# 关于Obsidian 开发者文档翻译
 
-本项目使用vitepress构建:
-[![npm](https://img.shields.io/npm/v/vitepress)](https://www.npmjs.com/package/vitepress)
 
 
 本文档翻译自[Obsidian官方开发者文档](https://docs.obsidian.md/Home)。
+
+## 项目背景介绍
 
 起初是因为受第二大脑方法论影响，在Obsidian里积累了不少文章，想通过插件自动发布到我的网站上。
 
@@ -22,9 +22,28 @@
 
 此项目主要用于个人学习，同时也希望分享出来对其它同学有所帮助。由于本人能力有限，如有翻译不当之处还请谅解。方便的话可以在github上提issue告知我修正。
 
-感谢大家的支持！
+感谢大家的支持，也欢迎帮助共建！
 
 ## 本项目主要参考资源
-https://docs.obsidian.md/Home
-https://github.com/luhaifeng666/obsidian-plugin-docs-zh/blob/master/README.md（新的Obsidian官方文档中去掉了使用Vue的例子，这部分仍然可以参考此项目）
+[官文文档](https://docs.obsidian.md/Home)
 
+[luhuafeng666插件开发文档](https://github.com/luhaifeng666/obsidian-plugin-docs-zh/blob/master/README.md)（新的Obsidian官方文档中去掉了使用Vue的例子在此项目中查阅）
+
+## 贡献者
+
+<VPTeamMembers align="center" size="small" :members="members" />
+
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://www.github.com/raistlind.png',
+    name: 'Raistlind',
+    title: 'Creator',
+    links: [
+      { icon: 'github', link: 'https://github.com/raistlind' }
+    ]
+  },
+]
+</script>

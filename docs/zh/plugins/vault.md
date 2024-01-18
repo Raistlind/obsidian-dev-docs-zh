@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 库
 ---
 Obsidian中的每个笔记集合都称为 Vault。Vault 由一个文件夹及其中的所有子文件夹组成。

@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 状态字段
 ---
 状态字段是一种[编辑器扩展](./editor-extensions.md)，可用于管理自定义编辑器状态。本页将引导你通过实现计算器扩展来构建状态字段。

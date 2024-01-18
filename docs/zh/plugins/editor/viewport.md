@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 视窗
 ---
 Obsidian编辑器支持数百万行的[庞大文档](https://codemirror.net/examples/million/)。之所以能够做到这一点，原因之一是因为编辑器只渲染可见的内容（略微超出）。

@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 编辑器扩展间通信
 ---
 构建编辑器扩展后，您可能希望从编辑器外部与它进行通信。例如，通过[命令](../user-interface/commands.md)或[功能区](../user-interface/ribbon-actions.md)操作。

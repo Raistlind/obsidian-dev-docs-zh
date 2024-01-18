@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 装饰
 ---
 装饰可以让你控制[编辑器扩展](./editor-extensions.md)中内容的绘制或样式。如果你想通过添加、替换编辑器中的元素或为其设计样式来改变编辑器的外观和观感，那么你很可能需要使用装饰。

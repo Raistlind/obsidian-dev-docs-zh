@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 构建Publish主题
 ---
 您可以为您的[Obsidian Publish](https://help.obsidian.md/Obsidian+Publish/Introduction+to+Obsidian+Publish)网站构建主题。 Obsidian Publish 的主题使用与 Obsidian 应用程序相同的 [CSS variables](https://docs.obsidian.md/Reference/CSS+variables/CSS+variables) 以及 [Publish-specific CSS variables](https://docs.obsidian.md/Reference/CSS+variables/CSS+variables#Obsidian%20Publish)。

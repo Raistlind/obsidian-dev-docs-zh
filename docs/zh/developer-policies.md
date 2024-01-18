@@ -1,3 +1,11 @@
+<!--
+ * @Author: Raistlind johnd0712@gmail.com
+ * @Date: 2024-01-18 10:18:00
+ * @LastEditors: Raistlind
+ * @LastEditTime: 2024-01-18 10:18:00
+ * @Description: 
+-->
+
 # 开发者政策
 ---
 我们在社区插件和主题上的目标是让用户能够轻松安全地修改和扩展 Obsidian 的功能，同时优先考虑应用程序的数据自主和离线使用。

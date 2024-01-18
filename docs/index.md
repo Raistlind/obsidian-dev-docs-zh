@@ -13,7 +13,7 @@
       text: 开始使用
       link: /zh/home
     - theme: alt
-      text: 官网文档
+      text: 官方文档
       link: https://docs.obsidian.md/Home
     - theme: alt
       text: GitHub
@@ -27,8 +27,10 @@
     details: 包括Obsidian应用主题开发和Publish网站主题开发。
     link: /zh/home
     linkText: 了解更多
-  - title: API参考
-    details: 包括CSS变量、TypeScript API。(翻译计划待定，考虑到文字并不多，也许直接看原文更准确)
+  - title: 关于翻译
+    details: 本文档翻译自Obsidian官方开发者文档，用于个人学习，同时也希望分享出来对其它同学有所帮助。由于本人能力有限，如有翻译不当处还请谅解。方便的话可以在github上提issue告知我修正。感谢大家！
+    link: /zh/about
+    linkText: 了解更多
     
 
 ---
